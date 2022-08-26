@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">I am passionate about computer security</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **decarvalho.enzo@protonmail.com**
 
